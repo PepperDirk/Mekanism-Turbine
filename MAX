@@ -1,0 +1,78 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.17.1",
+    "name": "Copy 0",
+    "author": "PepperDipping",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 16,
+      "max_y": 17,
+      "max_z": 16
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 9,
+          "item": {
+            "id": "mekanismgenerators:electromagnetic_coil"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 224,
+          "item": {
+            "id": "mekanism:pressure_disperser"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "mekanismgenerators:rotational_complex"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 441,
+          "item": {
+            "id": "mekanismgenerators:saturating_condenser"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 839,
+          "item": {
+            "id": "mekanism:structural_glass"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 642,
+          "item": {
+            "id": "mekanismgenerators:turbine_casing"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 13,
+          "item": {
+            "id": "mekanismgenerators:turbine_rotor"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 120,
+          "item": {
+            "id": "mekanismgenerators:turbine_vent"
+          }
+        }
+      ]
+    }
+  },
+  "body": "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u8Xd4m5xt7hb3C3uFneLu8Xd4m5xt7hb3C3uFneLu8Xd4m5xt7hb3C3uFneLu8Xd4m5xt7hb3C3uFneLu8Xd4m5xt7hb3C3uFnfffBLl8edPpNyNmjRr0UNPrdq069CpS7c+Xz/68Lj71GuQzd3mbnO3udvcbe42d5u7zd3mbnO3udvcbe42d5u7zd3mbnO3udvcbe42d5u7zd3mbnO3udvcbe42d5u7zd3mbnO3udvcbe42d5u77drc3G3uNnebu83d5m5zt7nb3G3uNnebu83d5m5zt7nb3G3uNnebu83d5m5zt7nb3G3uNnebu83d5m5zt7nb3G3uNnebu83d5m5zt7nb3G3uNnebu83d5m5zt7nb3G3uvvnk1ePPn8C6GzVp1qKHnlq1adehU5dufb5+9Ptxf+TooUGjJs1a9NBTqzbtOnTq0v0wh369in6fQ4NGTZq16KGnVm3adejUpTuYQ68r4J5Dg0ZNmrXooadWbdp16NSlO5pDrxvAPYcGjZo0a9FDT63atOvQqUt3ModeN8B7Dg0aNWnWooeeWrVp16FTl+5sDr0A3HNo0KhJsxY99NSqTbsOnbp0F3PoBfCeQ4NGTZq16KGnVm3adejUpfswh14HgHsODRo1adaih55atWnXoVOX7tMceh2A7jk0aNSkWYseemrVpl2HTl26qzn0OgDec2jQqEmzFj301KpNuw6dunQ3c+h1AL7n0KBRk2YteuipVZt2HTp16e7m0OsEcM+hQaMmzVr00FOrNu06dOrSPcyh1wnonkODRk2ateihp1Zt2nXo1KV7mkOvE+A9hwaNmjRr0UNPrdq069CpS/cyh14n4OfvH+rVoFGTZi166KlVm3YdOnXp3ubQ6+s9hwaNmjRr0UNPrdq069CpS/fTHHrdH/u9Dw0aNWnWooeeWrVp16FTl2697o99fQvuP768fffy6XxT3v725R8/fnoz//bl119fPv2397/++v7DT9cP/Onjbx/efb7ut//y/sPf3/cTvn77d6/fvv2nf7jP3l+//foDf3N/+3eva99/+AfH7fTh698LKv/146///If/8vX13P/3h4XO3++Q/eFPv73/+d31e396++6nly+f//jut19++ecf/sXfH/q/WDnqad9KAAA\u003d"
+}
